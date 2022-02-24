@@ -46,7 +46,6 @@ let otherNumber=5
 console.log(otherNumber);
 
 
-
 // ----------------------------------------------------------------------------------------------
 console.log("Exercise Six");
 // - Create a variable called "result", and do not assign it any value! Then log it to the console. (hint: this should print "undefined")
@@ -79,6 +78,7 @@ let a=5
 let b=8
 let difference=a-b
 console.log(difference)
+
 
 
 // When you are done, your console output should match the following: 
