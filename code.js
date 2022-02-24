@@ -56,7 +56,6 @@ let result
 console.log(result)
 
 
-
 // ----------------------------------------------------------------------------------------------
 console.log("Exercise Seven");
 // - Now multiply "myFavoriteNumber" by "otherNumber" and assign that to "result".
