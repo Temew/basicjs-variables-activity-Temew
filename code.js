@@ -79,6 +79,7 @@ let b=8
 let difference=a-b
 console.log(difference)
 
+//Please check the repo because I couldn't clone new one.
 
 
 // When you are done, your console output should match the following: 
